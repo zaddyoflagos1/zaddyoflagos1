@@ -17,8 +17,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zaddyoflagos1)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zaddyoflagos1&show_icons=true) 
-
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaddyoflagos1)](https://github.com/anuraghazra/github-readme-stats)
